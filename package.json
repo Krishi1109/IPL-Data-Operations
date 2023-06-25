@@ -1,0 +1,17 @@
+{
+  "name": "second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lvchengbin/cli-table": "^0.0.1",
+    "cli-table": "^0.3.11",
+    "fs": "^0.0.1-security",
+    "random-world": "^1.2.1"
+  }
+}
